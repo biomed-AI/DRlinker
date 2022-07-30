@@ -1,0 +1,10 @@
+C C C C C C C C C ( = O ) O
+C C C C ( = O ) c 1 c c c c c 1 O
+C N C ( C ) ( C ) C C 1 = C C = C C = C 1
+C = C C S S ( = O ) C C = C
+C C ( = O ) N C C C S ( O ) ( = O ) = O
+O = C ( O C c 1 c c c c c 1 ) c 1 c c c c c 1
+C c 1 c c ( C ) c c ( O C C 2 C N C ( = O ) O 2 ) c 1
+C C ( C ) ( C ( = O ) c 1 c c c n c 1 ) c 1 c c c n c 1
+C c 1 c c ( C ( = O ) N N C c 2 c c c c c 2 ) n o 1
+C C 1 C C C C C 1 N C ( = O ) N c 1 c c c c c 1
