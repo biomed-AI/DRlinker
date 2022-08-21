@@ -28,6 +28,12 @@ Pre-training can be started by running the `training.sh` script using ChEMBL dat
 
 The pre-trained models can be found on the `checkpoints/` folder.
 
+## Notice
+
+Because the file is too large to upload, we will publish all the data and pre-trained models on MultCloud. 
+
+Please click the [link](https://share.multcloud.link/share/b4c9bb72-a012-43ad-baec-4070f61a013b) to download and replace the original `data/` and `checkpoints/` folders.
+
 
 ## Fine-tuning and Testing
 
